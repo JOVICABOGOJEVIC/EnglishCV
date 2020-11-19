@@ -1,0 +1,71 @@
+-.container{
+    margin-top: 2%;
+    
+}
+.wrap{
+    border:1px solid black;
+    padding:3%;
+}
+em{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.3em;
+    color:rgb(33, 54, 172);
+    text-align: center;
+}
+h3{
+    margin-top: 2%;
+    
+}
+i{font-size: 1.3em;
+;
+font-family: 'Ubuntu', sans-serif;
+}
+.docs{
+    font-weight: bold;
+    margin-top: 3%;
+    font-size: 1.3em;
+  
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h5{
+
+    font-weight: bold;
+    
+}
+.line{
+border-bottom: 2px solid black;
+}
+.edge{
+    border:2px solid black;
+    padding:2px 5px 2px 5px;
+    box-shadow: 2px 5px 9px #888888;
+}
+.rate{
+    border-bottom: 4px solid grey;
+    width:60%;
+  
+}
+/* Make sure that padding behaves as expected */
+* {box-sizing:border-box}
+
+/* Container for skill bars */
+.vestine {
+  width: 100%; /* Full width */
+  background-color: #ddd; /* Grey background */
+}
+
+.skills {
+  text-align: right; /* Right-align text */
+  padding-top: 2px; /* Add top padding */
+  padding-bottom: 2px; /* Add bottom padding */
+  color: white; /* White text color */
+}
+
+.node {width: 90%; background-color:slateblue;} /* Green */
+
+.react {width: 80%; background-color:slateblue;} /* Blue */
+.node {width: 90%; background-color:slateblue;} /* Green */
+.js {width: 65%; background-color:slateblue ;} /* Red */
+.css {width: 60%; background-color: slateblue;} /* Dark Grey */
+.eng {width: 60%; background-color:slateblue;} /* Dark Grey */
