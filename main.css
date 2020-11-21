@@ -65,7 +65,7 @@ border-bottom: 2px solid black;
 .node {width: 90%; background-color:slateblue;} /* Green */
 
 .react {width: 80%; background-color:slateblue;} /* Blue */
-.node {width: 90%; background-color:slateblue;} /* Green */
+.css {width: 90%; background-color:slateblue;} /* Green */
 .js {width: 65%; background-color:slateblue ;} /* Red */
 .css {width: 60%; background-color: slateblue;} /* Dark Grey */
-.eng {width: 60%; background-color:slateblue;} /* Dark Grey */
+.git {width: 60%; background-color:slateblue;} /* Dark Grey */
